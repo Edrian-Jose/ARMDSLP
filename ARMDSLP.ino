@@ -14,6 +14,12 @@
 #include <LiquidCrystal_I2C.h>
 #include <ARMDSL.h>
 
+/*
+ * Libaries sources
+ * LiquidCrystal_I2C  - https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+ * ARMDSL             - https://github.com/Edrian-Jose/ARMDSL
+ */
+
 #define trigPin 8
 #define echoPin 9
 #define buttonPin 10
